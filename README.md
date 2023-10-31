@@ -8,6 +8,6 @@
 - git add .
 - git commit -m "initial commit"
 # Create Repository in Github.com
-- git remote add origin <url> https://github.com/DharaniSenthil-commits/DjangoCRM.git
+- git remote add origin url
 - git branch -m main
 - git push -u origin main
